@@ -4,4 +4,6 @@
 
 *Source of lecture: https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/*
 
-Will be contain computer vision related codes, when i'm studying
+*DATA file contain all png, jpg and videos that used in codes.*
+
+
