@@ -5,6 +5,6 @@
 *Source of codes: https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/*
 *thanks to Jose Portilla for bringing together these incredible resources*
 
-*DATA file contain all png, jpg and videos that used in codes.*
+*DATA file contains the whole png, jpg and videos that used in codes.*
 
 
