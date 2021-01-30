@@ -6,6 +6,6 @@
 *thanks to Jose Portilla for bringing together these incredible resources*
 
 *DATA file contains the whole png, jpg and videos that used in codes.*
-*There are additional resources and piece of information inside of codes as well*
+*In code files, there are additional resources and piece of information as well*
 
 
